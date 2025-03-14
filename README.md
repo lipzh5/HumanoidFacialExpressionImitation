@@ -13,7 +13,7 @@
    and how it can be applied to transfer motions or facial expressions from a human to a humanoid robot.
    2. Feel free to take notes or jot down ideas based on your reading.
 
-2️⃣ **Watch the following videos of "robot imitating human" (our preliminary experimental results) and capture screenshot when
+2️⃣ **Watch the following videos of "robot imitating human" (our preliminary experimental results) and capture screenshots when
    the robot performs well(~4 hrs):**
    - [imitation results](https://drive.google.com/drive/folders/1htHpBTDGMyzFEux344Wd4FjWR8pbVZv7?usp=sharing)
   
