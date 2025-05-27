@@ -38,3 +38,25 @@
    1. Please provide clear and detailed answers based on your own understanding.
    2. Organize your answers in a PDF file (no longer than 2 pages) and email [Penny](mailto:peizhen.li1@hdr.mq.edu.au) once you're finished 😄.  
     
+## Stage 3: Future Work  (~30.May.2025)
+### Introduction
+As a future direction of this imitation project, we aim to contribute a dataset for <strong>humanoid facial expression generation</strong>—specifically, generating <strong>nuanced</strong> facial expressions conditioned on user-provided text descriptions. The dataset is designed for model training and consists of pairs of humanoid facial expression images and corresponding textual descriptions. (See the example provided below; the numbers indicate intensity levels within specified ranges.)
+
+![My Image](./assets/images/text-image-pair.png)
+### Tasks
+1️⃣ **Text Annotation Inspection and Formatting**
+  1. <strong>Do you think the level of granularity in the text description provided in the example above is appropriate?</strong> Or should we use a more fine-grained description to capture nuanced or intricate facial expressions?
+  2. <strong>Could you suggest alternative annotation formats</strong> for representing nuanced humanoid facial expressions, as illustrated in the example above?
+
+📣 **Note:** 
+   1. You may refer to other text-to-image generation models for their text annotation conventions and formatting practices (However, our objective is to generate **nuanced** humanoid facial expressions that differ from those in prior work, so please feel free to explore beyond existing approaches).
+
+      - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752) 
+      - [LAION-400M: Open Dataset of CLIP-Filtered 400
+Million Image-Text Pairs](https://arxiv.org/pdf/2111.02114)
+   2. Organize your answers in a PDF file (no longer than 1 page) and email [Penny](mailto:peizhen.li1@hdr.mq.edu.au) once you're finished 😄.
+ 
+
+
+🔚 **Concluding remarks:**
+ Hope you enjoy the journey! 😄
