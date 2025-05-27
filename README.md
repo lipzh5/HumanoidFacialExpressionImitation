@@ -44,7 +44,7 @@ As a future direction of this imitation project, we aim to contribute a dataset 
 
 ![My Image](./assets/images/text-image-pair.png)
 ### Tasks
-1️⃣ **Text Annotation Inspection and Formatting**
+1️⃣ **Text Annotation: Inspection and Formatting**
   1. <strong>Do you think the level of granularity in the text description provided in the example above is appropriate?</strong> Or should we use a more fine-grained description to capture nuanced or intricate facial expressions?
   2. <strong>Could you suggest alternative annotation formats</strong> for representing nuanced humanoid facial expressions, as illustrated in the example above?
 
